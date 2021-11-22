@@ -2,3 +2,4 @@ pandas
 pandas-visual-analysis
 openpyxl
 jupyter_contrib_nbextensions
+appmode
