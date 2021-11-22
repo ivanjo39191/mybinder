@@ -1,4 +1,5 @@
 pandas
 pandas-visual-analysis
 openpyxl
+dtale
 jupyter_contrib_nbextensions
