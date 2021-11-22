@@ -1,8 +1,7 @@
 channels:
   - conda-forge
 dependencies:
-  - pandas
-  - pandas-visual-analysis
-  - openpyxl
-  - jupyter_contrib_nbextensions
   - appmode
+  - pip
+  - pip:
+    - -r requirements.txt
