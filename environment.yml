@@ -3,3 +3,7 @@ channels:
 dependencies:
   - ipyvolume
   - appmode
+  - pandas
+  - pandas-visual-analysis
+  - openpyxl
+  - jupyter_contrib_nbextensions
