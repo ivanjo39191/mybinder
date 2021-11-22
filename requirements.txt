@@ -4,4 +4,5 @@ qgrid
 cufflinks
 plotly==4.3.0
 pandas-visual-analysis
-pip install openpyxl
+openpyxl
+jupyter_contrib_nbextensions
