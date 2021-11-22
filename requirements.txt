@@ -1,8 +1,4 @@
 pandas
-ipywidgets
-qgrid
-cufflinks
-plotly==4.3.0
 pandas-visual-analysis
 openpyxl
 jupyter_contrib_nbextensions
